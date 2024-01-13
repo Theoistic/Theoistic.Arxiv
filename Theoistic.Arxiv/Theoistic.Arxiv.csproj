@@ -4,6 +4,12 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>Theoistic.Arxiv</Title>
+    <Authors>Theodor Solbjorg</Authors>
+    <Company>Theoistic</Company>
+    <PackageProjectUrl>https://github.com/Theoistic/Theoistic.Arxiv</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Theoistic/Theoistic.Arxiv</RepositoryUrl>
+    <PackageTags>Arxiv</PackageTags>
   </PropertyGroup>
 
 </Project>
